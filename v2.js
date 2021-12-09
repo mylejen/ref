@@ -7,4 +7,4 @@ console.log(utm_campaign)
 
 utm_campaign = sessionStorage.utm_campaign
 let note = document.getElementById("extra_field_3")
-note.value= utm_campaign
+note.value = utm_campaign
