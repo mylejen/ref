@@ -9,5 +9,3 @@ ref = sessionStorage.ref
     let note = document.getElementById("extra_field_3")
     note.value=ref
 
-document.getElementById("#extra_field_3").style.display:none;
-
