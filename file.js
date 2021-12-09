@@ -9,9 +9,5 @@ ref = sessionStorage.ref
     let note = document.getElementById("extra_field_3")
     note.value=ref
 
+document.getElementById("#extra_field_3").style.display:none;
 
-  var style = document.createElement('style');
-  style.innerHTML = `
-  #extra_field_3 { display:none; }
-  `;
-  document.head.appendChild(style);
